@@ -1,6 +1,8 @@
 # Asess
 診断機能を作ったもの。
 
+[画面](https://user-images.githubusercontent.com/57384172/72314145-195fe080-36d1-11ea-891a-19eff4c5b14f.PNG)
+
 ## overview
 
 野球をする際のポジションと背番号を診断するツール。
