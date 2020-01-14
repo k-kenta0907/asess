@@ -1,6 +1,8 @@
 # Asess
 診断機能を作ったもの。
+<br>
 URL:[https://amazing-galileo-a2ba6c.netlify.com](https://amazing-galileo-a2ba6c.netlify.com)
+<br><br>
 ![画面](https://user-images.githubusercontent.com/57384172/72314145-195fe080-36d1-11ea-891a-19eff4c5b14f.PNG "screen")
 
 ## overview
